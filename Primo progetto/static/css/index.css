@@ -1,0 +1,16 @@
+@import "titolo.css";
+@import "commons.css";
+@import "testo.css";
+@import "firma.css";
+@import "immagine.css";
+
+
+.container
+{
+    background-color: beige;
+}
+
+body
+{
+    padding: 20px;
+}

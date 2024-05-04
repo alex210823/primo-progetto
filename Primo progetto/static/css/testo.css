@@ -1,0 +1,10 @@
+text-container
+{
+    margin-top: 80px;
+    margin-bottom: 35px;
+}
+
+.text-container p
+{
+    font-size: 18px;
+}
